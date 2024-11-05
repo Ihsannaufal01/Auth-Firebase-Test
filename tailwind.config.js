@@ -18,6 +18,9 @@ module.exports = {
           cerulean: '#007BA7',
         },
       },
+      backgroundImage: {
+        'custom-image': "url('/public/Hero.png')",
+      },
     },
   },
   plugins: [],
